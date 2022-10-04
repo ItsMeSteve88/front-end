@@ -1,4 +1,8 @@
 This is me working alone on my studies
 hosting on my git
-SO if i want to add a commit using the terminal I would do 
-git commit -m (message) and then say what has changed
+
+If i want to add a commit using the terminal I would 
+git add . (to add the changes to the staging area)
+and then  
+git commit -m (message) "and then say what has changed"
+and push the changes to the master/main branch
