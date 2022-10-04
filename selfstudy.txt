@@ -1,2 +1,4 @@
 This is me working alone on my studies
 hosting on my git
+SO if i want to add a commit using the terminal I would do 
+git commit -m (message) and then say what has changed
