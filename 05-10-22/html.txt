@@ -1,0 +1,26 @@
+HTML.
+=> For the browser, creates the controls.
+=> HyperText Markup Language.
+
+=> It's a language for the browser
+=> it's not a programming language, it is a markup language 
+    => Because of the grammar and syntax.
+    => <HTML>other content.</HTML>
+
+=> All content must be inside these tags
+    Head is the header of your document, title info for whatever comes next
+    Body is the main window of your document
+
+Making a signup form.
+    1. Name.
+    2. Email.
+    3. Password.
+    4. Phone no.
+    5. D.O.B.
+    6. Gender.
+    7. Username.
+    8. Address.
+    9. Country.
+
+Some tags are self closing, like <input/>
+
