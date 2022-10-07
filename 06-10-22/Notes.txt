@@ -1,0 +1,32 @@
+Compiler Types: AOT, JIT
+
+AOT
+
+1. Write a Java program.
+2. Conver it to machine language.
+3. Faster
+4. not platform independent (C, C++, C# without .net core)
+
+JIT:
+
+1. Write a program.
+2. Run on machine
+3. Complies just before running
+4. Java(JVM), JS, Go, C#(.NET)
+5. Java runtime. JRE, .NET, NodeJS.
+
+
+What is an Element?
+    => The code betweeen tags, from opening tag to closing tag. <div>this is the element</div>
+
+Inline Element.
+    => Occupies as much space as it needs, Nothing more. 
+    => Inline elements can start on the same line as long as there is space left.
+    => Can't give height or witdh to an inline element.
+    => <span/> is an example
+
+Block level Element.
+    => Occupies the entire line.
+    => Starts on a new line.
+    => Can change height and width.
+    => <div/> is an example

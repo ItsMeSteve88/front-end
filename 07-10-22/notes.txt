@@ -1,0 +1,21 @@
+SEO => Search Engine Optimization.
+
+Certain tags help search engines parse your code much easier
+
+Encoding
+    => Formats of data
+
+DNS 
+    => Domain name server
+    => Google.com for example
+    => yourowncompany.com 
+
+So depending on what you are looking for, a domain name on a server can be expensive
+If it is a popular keyword, it is more costly, less popular keyword is less costly
+
+=> https://www.godaddy.com/en-uk/domains
+
+=> travel.com -- expensive
+=> travelxyz.com -- cheaper
+
+So you buy the domain name on a server, then your ip is linked to that domain name
