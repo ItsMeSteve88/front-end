@@ -1,0 +1,70 @@
+Types of CSS:
+
+1. Inline
+    => It is written along with html codes as an html attribute
+    => not a good practice, harder to read and maintain code.
+2. Internal
+    => Within the head tag 
+    => Not a good practice
+3. External
+    => Separate CSS file
+
+
+
+Inline CSS
+    => Written in the tag
+<div style="background-color: red;</div>
+
+
+
+
+Internal CSS 
+CSS Selectors:
+    => Help you to select element/elements where styles need to be applied.
+    => Examples are: ID, Tag, Class or *
+
+ID
+    => Apply unique styles. Can be applied to one control only
+
+ID: <div id="collection"?
+#collection {
+    background-color: red;
+}
+
+Tag
+    => Applies style to all matching tags in your html.
+h3 {
+    color: blue;
+}
+<d3>join us<h3>
+The above text will become blue.
+
+
+Class 
+    => A custom css configuration to apply on different elements.
+    Able to apply css to multiple elements, with different tags.
+.text-wrapper{
+border: 1px solid pink;
+}
+<span class ="text-wrapper"> This is Span 1</span>
+<div class ="text-wrapper"> Another Div</div>
+The above elements will have pink borders
+
+* 
+    => Will apply to all elements in the page, it is the lowest priority, therefore it
+    Will apply only to elements that do not have css applied
+*{
+    color: aqua;
+}
+Will color all elements that do not already have css, aqua
+
+
+
+External CSS
+    => Write CSS in another file and link it to your page
+
+<link rel="stylesheet" href="joinus.css">
+Link 
+Rel = relationship
+Stylesheet = type of relationship
+href = location of the css file
