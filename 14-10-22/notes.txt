@@ -1,0 +1,15 @@
+The Journey
+
+HTML-> CSS-> REACT-> NodeJS-> Express-> MongoDB
+
+
+Bootstrap
+=> What is it?
+    = A library for CSS. Has prebuilt classes that can be used
+
+=> Why do we need it?
+
+Library 
+=> Some inbuilt features you don't need to write
+Framework = Library + structure + workspace + patterns
+

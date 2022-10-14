@@ -142,7 +142,29 @@ hr {
     cursor: pointer;
 }
 
-#create-button {
+.btn-primary {
+    background-color: #42b72a;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    height: 40px;
+    width: 40%;
+    margin-top: 20px;
+}
+
+.btn-primary:hover {
+    background-color: #36a420;
+    cursor: pointer;
+}
+
+.modalCenter {
+    top: 30% !important;
+    transform: translateY(-50%) !important;
+}
+
+/* #create-button {
     background-color: #42b72a;
     color: white;
     font-size: 18px;
@@ -157,7 +179,7 @@ hr {
 #create-button:hover {
     background-color: #36a420;
     cursor: pointer;
-}
+} */
 
 p {
     font-size: 15px;

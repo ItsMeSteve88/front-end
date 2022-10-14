@@ -1,0 +1,15 @@
+
+
+Responsive Design.
+    => Making apps usable on different screens
+
+1. Breakpoints.
+2. MediaQuery.
+3. Mobile first and desktop first design.
+
+
+2 different css configurations needed.
+1. for desktop
+2. for mobile
+    => Identify when you're in mobile view (breakpoint. so when the screen is below a certain pixel size {apply css})
+    => apply the mobile css
