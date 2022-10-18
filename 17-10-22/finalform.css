@@ -1,0 +1,12 @@
+/* .form-label{
+    float: right;
+} */
+.bg-dark {
+    background-color: rebeccapurple !important;
+}
+
+img {
+    width: 100%;
+    /* padding-bottom: 50px; */
+    margin-bottom: 50px;
+}

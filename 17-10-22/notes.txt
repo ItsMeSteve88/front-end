@@ -1,0 +1,9 @@
+Requirement
+
+Desktop view
+    3 columns: 
+    => image, signin, signup
+
+Mobile view 
+    One Column
+    => img -> signin -> signup.
