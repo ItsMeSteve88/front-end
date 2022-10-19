@@ -32,4 +32,26 @@ console.log(typeof employee);
 var x;
 console.log(x);
 
+// function
+// It is a datatype that stores a function. They can also be stored in variables.
+// arguements are the values passed to a function when it is called.
 
+var add = function (a, b)
+{
+    return a + b;
+}
+
+// to call the function, use the function name followed by parenthesis.
+
+console.log(add(10, 20));
+
+// create a function that multiplies 2 numbers and divides the result by 2.
+var multiply = function (a, b, c)
+{
+    return (a * b) / c;
+}
+
+console.log(multiply(6, 5, 2));
+
+// operators are symbols that perform operations on variables and values.
+// some examples are: +, -, *, /, %, ++, --, +=, -=, *=, /=, %=, ==, ===, !=, !==, >, <, >=, <=, &&, ||, !, ?.
