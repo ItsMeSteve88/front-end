@@ -1,0 +1,26 @@
+Complex data.
+
+for example:
+
+Student => id: 1 , name: John Doe, subjects: [computer science, human psychology]
+
+the same data stored as an array would look like:
+
+Array = [98, "John Doe", "CS", "HP"]
+
+the same data stored as an object would look like:
+
+var student = {
+    id:1,
+    name: "John Doe",
+    subjects: ["CS", "Match", "Psychology"],
+    address:{
+        buildingNo: 25,
+        streetNo:5,
+        city: "NYC"
+        Country: "USA"
+    }
+
+}
+
+Objects are stored as key/value pairs.

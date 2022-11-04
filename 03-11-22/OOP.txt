@@ -1,0 +1,35 @@
+
+
+Object Oriented Programming.
+
+=> Foundation of modern software architecture.
+
+Java
+C#
+Python
+Ruby
+Go
+JavaScript.
+
+Why do we need it?
+
+System software => Operating System
+
+Real world problems and their solutions
+
+WhatsApp.
+Facebook.
+Google.
+NASA apps.
+Defense systems
+Amazon.
+
+
+FORTAN.
+Cobol.
+C
+
+
+Ability to map real world problems in programs/computer language.
+
+Gives you a format to map things
